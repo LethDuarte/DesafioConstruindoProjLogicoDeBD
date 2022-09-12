@@ -82,7 +82,7 @@ CREATE TABLE provider(
     CNPJ CHAR(14),
     ProvRealName VARCHAR(25),
     ProvFantasy VARCHAR(25),
-     Street VARCHAR(25) NOT NULL,
+    Street VARCHAR(25) NOT NULL,
     Compl VARCHAR(25),
     District VARCHAR(25) NOT NULL,
     City VARCHAR(25) NOT NULL,
